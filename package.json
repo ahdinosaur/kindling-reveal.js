@@ -1,0 +1,27 @@
+{
+  "name": "kindling-reveal.js",
+  "version": "0.1.0",
+  "description": "a kindling generator for reveal.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ahdinosaur/kindling-reveal.js.git"
+  },
+  "keywords": [
+    "kindling",
+    "template",
+    "scaffold",
+    "scaffolding",
+    "bootstrap",
+    "utility",
+    "starter",
+    "generate",
+    "generator"
+  ],
+  "author": "ahdinosaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahdinosaur/kindling-reveal.js/issues"
+  },
+  "homepage": "https://github.com/ahdinosaur/kindling-reveal.js"
+}
